@@ -21,7 +21,7 @@
 
 // What is the output?
 
-javascriptconsole.log(a);
+console.log(a);
 console.log(b);
 
 var a = 10;

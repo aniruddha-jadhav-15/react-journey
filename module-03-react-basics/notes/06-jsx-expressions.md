@@ -1,4 +1,4 @@
-# JSX Expressions
+# 06 JSX Expressions
 
 ## What is JSX Expression?
 

@@ -1,48 +1,48 @@
 # React Journey 🚀
 
-A structured learning repository documenting my
-progress through the codecompile.ai
-"Master React From Beginner to Advanced" course.
+Documenting my structured learning path through React —
+following the codecompile.ai "Master React From Beginner
+to Advanced" course.
 
-## 📚 What's Inside
+## 📚 Modules
 
 ### Module 1 — Getting Started with React
 
-- First React project
-- Basic profile card component
 - React setup with Vite
+- First component, project structure
 
 ### Module 2 — JavaScript Fundamentals
 
-- Notes covering core JS concepts
-- Practice sheets and exercises
+- Closures, promises, async/await
+- Array methods, destructuring, ES6 modules
 
 ### Module 3 — React Basics
 
-- Lecture notes for all 17 lectures
-- Practice app built with Vite React
-- Topics: Components, JSX, Props,
-  useState, Events, Hooks
+- Components, JSX, Props
+- useState, useEffect, events, forms
+- Assessment score: 100%
 
 ### Module 4 — Hands-On Projects
 
-- Lecture notes
-- Project built in separate repo 👇
+- Built Task Board UI
+- Reusable components, props, Tailwind CSS
+
+### Module 5 — State Management
+
+- Form handling, tag selection logic
+- Delete functionality, localStorage
+- Drag and drop without library
 
 ## 🔗 Projects
 
 - [Task Board App](https://github.com/aniruddha-jadhav-15/task-board-app)
-  — Jira-inspired task management UI
 
 ## 🛠️ Tech Stack
 
-- React
-- JavaScript (ES6+)
-- Vite
-- CSS
+React, Vite, JavaScript, Tailwind CSS
 
 ## 👨‍💻 Author
 
-Aniruddha Jadhav  
+Aniruddha Jadhav
 [Portfolio](https://aniruddha-jadhav-portfolio.netlify.app) |
 [GitHub](https://github.com/aniruddha-jadhav-15)
